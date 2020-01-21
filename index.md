@@ -1,91 +1,119 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Melinda Csapo's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Melinda Csapo
+Clinical Trial Subject Matter Expert | Clinical Dietitian
+
+1 Chapel Court, Cathedral Place, Limerick, Ireland
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="melinda@symbom.space"><i class="fas fa-envelope"></i> melinda@symbom.space</a>
+<a href="tel:+353863747115"><i class="fas fa-mobile"></i> +353 86 3747115</a>
 </div>
 
+## Skills
 
-## Currently
+### Clinical
 
-Standing on the shoulders of giants
+IHC-GCP
 
-### Specialized in
+### Software
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Microsoft Office Suite, Adobe products
 
+## Experience
 
-### Research interests
+### ICON Plc
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+`Feb 2016 - Present`
+**Clinical Trial Subject Matter Expert / Functional Specialist**
+
+Responsible to drive continuous improvement, including review of processes, procedures and tools to propose solutions to improve efficiency. Covering lead/managerial tasks and responsibilities, including review of quality questions across the clinical trial planning group. Working with sales to identify solutions and efficiencies for individual or suites of projects and programmes.
+
+Active contribution to product improvements and prototyping, working with Business Solutions, IT and software departments to resolve issues and develop solutions.
+
+`Dec 2013 - Present`
+**Clinical Trial Subject Matter Expert**
+
+Assessing study documentation to identify vulnerabilities and content for FC products. Experience with several clients in various indications from Phase I to IV and registries, involving program level insights, and focus areas as safety reporting, imaging/irRECIST, patient retention, IATA, etc.
+
+Actively participating in Product and Process Improvement, Innovation and Professional Development Initiatives.
+
+### Parexel Hungary Ltd.
+
+`Feb 2012 - Nov 2013`
+**Clinical Monitoring Associate**
+
+Country level site management and remote monitoring (35 sites).
+
+Created local reporting tools for instant and improved oversight of trial status.
+
+### CRC Ltd. Budapest, (National Institute of Oncology)
+
+`Nov 2010 - Feb 2012`
+**Lead Clinical Research Coordinator**
+
+`Sep 2009 - Nov 2010`
+**Clinical Research Coordinator**
+
+Site level oversight of all protocols (30+ phase I-III oncology trials) and coordination of trial activities from initiation through termination.
+
+Created an eligibility database to identify suitable trials for patients, including patients progressing from one trial to another.
+
+### University of Debrecen MHSC Dietetic Service
+
+`Jul 2007 - Sep 2009`
+**Dietitian**
+
+Supervision of hospital catering, menu planning and dietary counselling.
+
+Invited as speaker at several conferences and continuous education sessions.
+
+### University of Debrecen
+
+`Semester 2008/2009`
+**Deputy Lecturer** 
+
+Elective course on nutrition for local and international medical students.
+
+### Pediatric Hospital of Buda
+
+`May  2007 - Jun 2007`
+**Dietitian**
+
+Management of local catering system, dietary counselling
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2003 - 2007`
+__Semmelweis University__
+BSc Dietitian (College Diploma with Honours, Excellent Grade)
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+Thesis: Problem solving algorithms of intelligent menu planning software
+In my thesis I analysed the thought process of a dietitian to identify fallacies of menu planning applications on the market, and to propose taxonomies that enable AI-driven smart recipe, meal and diet planning using generic algorithms. 
 
-- Sizar
+## Trainings and Certifications
 
-`1667 - death`
-__Trinity College, Cambridge__
+`Nov 2015`
+__ICON Firecrest__
+Yellow Belt SixSigma Certification
 
-- Fellow
+`Nov 2009`
+__BiTrial Ltd., Hungary__
+Monitoring Training
 
+## Languages
 
+Hungarian: Native
 
-## Awards
+English: Proficient
 
-`2012`
-President, *Royal Society*, London, UK
+German: Basic knowledge
 
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
+Spanish: Basic knowledge
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
-
-
+Last updated: Jan 2020 -->
